@@ -5,7 +5,7 @@ Project name : Employee-analysis
 - HTML5
 - Tailwind CSS 
 
-## Tech usage
+## Live link
 Live Link: [https://employee-analysis.netlify.app/]
 
 
@@ -53,6 +53,6 @@ The dashboard is optimized for:
 ## Contact
 
 Your Name - [NazneenSultana](https://www.linkedin.com/in/nazneen-sultana-6a9746289/)
-Project Link: (https://github.com/git12nazneen/Employee-Analysis)
+Project Link:  [https://employee-analysis.netlify.app/]
 
 
