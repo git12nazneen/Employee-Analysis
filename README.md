@@ -43,7 +43,7 @@ git clone https://github.com/git12nazneen/Employee-Analysis
 
 ## Responsive Design
 
-The dashboard is optimized for:
+The design is optimized for:
 
 - 💻 Desktop (1200px and above)
 - 💻 Laptop (1024px)
